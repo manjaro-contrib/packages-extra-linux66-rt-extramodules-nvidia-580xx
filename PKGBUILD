@@ -7,7 +7,7 @@
 _linuxprefix=linux66-rt
 
 pkgname="${_linuxprefix}-nvidia-580xx"
-pkgver=580.126.18
+pkgver=580.142
 pkgrel=1
 pkgdesc="NVIDIA kernel modules for ${_linuxprefix}"
 arch=('x86_64')
